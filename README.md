@@ -18,8 +18,8 @@ A desktop application built with Electron to monitor system resources such as CP
 ### Clone the Repository
 
 ```sh
-git clone https://github.com/your-username/resource-monitor.git
-cd resource-monitor
+git clone https://github.com/arhantsg07/Resource-monitor/
+cd Resource-monitor
 ```
 
 ### Install Dependencies
