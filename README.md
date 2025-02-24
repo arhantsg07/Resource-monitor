@@ -28,15 +28,15 @@ cd resource-monitor
 npm install
 ```
 
-### Run in [Developm](https://www.electronjs.org/)ent [Mode](https://nodejs.org/)
+### Run in Development Mode
 
 ```sh
-npm start
+npm run dev
 ```
 
-## [Bu](https://www.chartjs.org/)ilding the App
+### Building the App
 
-To package the app fo[r distribution:](https://www.electron.build/)
+To package the app for distribution
 
 ```sh
 npm run build
@@ -44,8 +44,7 @@ npm run build
 
 ## Technologies Used
 
-- Electron
-- Node.js
-- Rechart (for visualizing resource usage)
-- Electron-Builder (for packaging)
-
+- [Electron](https://www.electronjs.org/)
+- [Node.js](https://nodejs.org/en)
+- Rechart
+- [Electron-Builder](https://www.electron.build/)
